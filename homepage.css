@@ -42,7 +42,6 @@ a{
 a:hover{
     background-color:  rgb(94, 243, 8);
     border-radius: 10px;
-    color:;
     padding: 10px;
     font-weight: 800;
 }
@@ -238,7 +237,7 @@ font-size: 20px;
 .col2 h2{
     margin-bottom: 20px;
 }
-.col2 h2:{
+.col2 h2{
     color:rgb(43, 44, 44) ;
 }
 li{
